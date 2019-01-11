@@ -2,3 +2,4 @@
 !Remove plus articles 
 aftonbladet.se##a:has([href="#plus-logo"])
 aftonbladet.se##a:has(span.abIconPlus)
+aftonbladet.se##a[href*=".aftonbladet.se/kampanj?"]
