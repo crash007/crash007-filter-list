@@ -1,0 +1,4 @@
+[Adblock Plus 2.0]
+!Remove plus articles 
+aftonbladet.se##a:has([href="#plus-logo"])
+aftonbladet.se##a:has(span.abIconPlus)
