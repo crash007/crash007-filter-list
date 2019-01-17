@@ -6,3 +6,4 @@ aftonbladet.se##a[href*=".aftonbladet.se/kampanj?"]
 
 !premium
 expressen.se##.teaser:has(a[href^="/premium"])
+www.expressen.se##.site-body__bauta > .linked-image-widget
