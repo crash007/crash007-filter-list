@@ -1,0 +1,2 @@
+! Block Greta news
+aftonbladet.se#?#a:-abp-has( h3:-abp-contains(Greta))
