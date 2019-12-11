@@ -2,6 +2,7 @@
 
 ! Swedish 
 aftonbladet.se#?#a:-abp-has( h3:-abp-contains(Greta))
+aftonbladet.se#?#a:-abp-has( p:-abp-contains(Greta))
 expressen.se#?#a:-abp-has( div:-abp-contains(Greta))
 expressen.se#?#a:-abp-has( h2:-abp-contains(Greta))
 svd.se#?#a:-abp-has( h2:-abp-contains(Greta))
