@@ -1,13 +1,14 @@
 ! Block Greta news
 
 ! Swedish 
-aftonbladet.se#?#a:-abp-contains(Greta)
-aftonbladet.se#?#a:-abp-contains(GRETA)
+svd.se,dn.se,expressen.se,st.nu,aftonbladet.se#?#a:-abp-contains(Greta)
+svd.se,dn.se,expressen.se,st.nu,aftonbladet.se#?#a:-abp-contains(GRETA)
+
 aftonbladet.se#?#article:-abp-contains(Greta)
-expressen.se#?#a:-abp-has( div:-abp-contains(Greta))
-expressen.se#?#a:-abp-has( h2:-abp-contains(Greta))
-svd.se#?#a:-abp-has( h2:-abp-contains(Greta))
-dn.se#?#a:-abp-has( h1:-abp-contains(Greta))
+!expressen.se#?#a:-abp-has( div:-abp-contains(Greta))
+!expressen.se#?#a:-abp-has( h2:-abp-contains(Greta))
+!svd.se#?#a:-abp-has( h2:-abp-contains(Greta))
+!dn.se#?#a:-abp-has( h1:-abp-contains(Greta))
 
 ! International
 theguardian.com#?#li:-abp-has(div > a:-abp-contains(Greta))
