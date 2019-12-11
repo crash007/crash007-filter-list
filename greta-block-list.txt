@@ -1,8 +1,8 @@
 ! Block Greta news
 
 ! Swedish 
-svd.se,dn.se,expressen.se,st.nu,aftonbladet.se#?#a:-abp-contains(Greta)
-svd.se,dn.se,expressen.se,st.nu,aftonbladet.se#?#a:-abp-contains(GRETA)
+sydsvenskan.se,svd.se,dn.se,expressen.se,st.nu,aftonbladet.se#?#a:-abp-contains(Greta)
+sydsvenskan.se,svd.se,dn.se,expressen.se,st.nu,aftonbladet.se#?#a:-abp-contains(GRETA)
 
 aftonbladet.se#?#article:-abp-contains(Greta)
 !expressen.se#?#a:-abp-has( div:-abp-contains(Greta))
