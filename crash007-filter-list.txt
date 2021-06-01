@@ -10,3 +10,5 @@ www.expressen.se##.site-body__bauta > .linked-image-widget
 
 !Workaround for Frellwits-filter-lists to show senaste nytt in mobile mode
 live.aftonbladet.se##.mobile__main > .react-tabs:style(height:auto !important)
+
+nordnet.se#?#div > :-abp-has( div[class*="CookieConsent"])
